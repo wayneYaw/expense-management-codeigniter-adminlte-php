@@ -1,0 +1,6 @@
+{
+    "name": "u31462/app",
+    "require": {
+        "ext-gd": "*"
+    }
+}
